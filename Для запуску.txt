@@ -1,0 +1,3 @@
+Гра використовує бібліотеку LWJGL та OpenGL.
+Для запуску проекту та гри у IntelliJ IDEA потрібно добавити модулі (GameTetris\src\LWJGL\jar)
+Та віповідні бібліотеки(GameTetris\src\LWJGL\native\"ваша операційна система")
